@@ -46,12 +46,13 @@ Bob’s SSN: HASHED - SSN -- 01a54629ef], IP: HASHED - IP -- 725b4c8929]
   Ip: 1
 ```
 📁 File Structure
+```
 PII-document-redactor/
 ├── redact_document.py   # Core redaction logic
 ├── cli.py               # CLI runner
 ├── sensitive.txt        # Example input
 ├── redacted_output.txt  # Output (auto-generated)
-
+```
 🛠 Tech Stack
 Python 3.12
 re (Regex)
