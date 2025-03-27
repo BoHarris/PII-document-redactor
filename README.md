@@ -16,10 +16,11 @@ A privacy-focused Python tool that scans documents for Personally Identifiable I
 Install Python 3.10+
 
 Clone this repo:
-
+```
 git clone https://github.com/your-username/PII-document-redactor.git
 cd PII-document-redactor
 Run the CLI tool:
+```
 
 python cli.py sensitive.txt --output redacted_output.txt
 ✅ Redacted document is saved, and a summary is printed.
