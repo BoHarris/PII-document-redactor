@@ -1,0 +1,9 @@
+Hello, my name is Alice Johnson. You can reach me at alice.johnson@example.com or call me at 555-123-4567.
+
+Here’s Bob’s SSN: 123-45-6789. He recently logged in from IP address 192.168.1.50.
+
+Another user, carl.smith@something.net, had this number: 987.654.3210 and SSN 987-65-4321.
+
+Susan logged in from IP: 10.0.0.7 and used the phone number 444-444-4444.
+
+Private notes: Bob’s backup email is bob.alt@backupmail.com and his last known IP was 172.16.0.99.
