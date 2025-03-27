@@ -54,13 +54,16 @@ PII-document-redactor/
 ├── redacted_output.txt  # Output (auto-generated)
 ```
 🛠 Tech Stack
+```
 Python 3.12
 re (Regex)
 hashlib (SHA-256)
 argparse (Command-line interface)
-
+```
 💬 Notes
+```
 This tool is designed as a learning and demo project, but can be extended for real-world use in:
 Privacy compliance automation (FTC, GDPR, CCPA)
 Internal audits and test data sanitization
 Secure document review workflows
+```
